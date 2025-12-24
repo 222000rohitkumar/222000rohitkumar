@@ -101,7 +101,6 @@ Customer churn directly impacts revenue and lifetime value. The goal was to proa
 
 ## GitHub Analytics
 
-> If images do not load immediately, refresh once — GitHub rate-limits stats APIs.
 
 <div align="center">
 
