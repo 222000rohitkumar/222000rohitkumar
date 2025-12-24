@@ -1,24 +1,20 @@
 <div align="center">
 
-<h1 style="font-weight:700;">Rohit Kumar</h1>
+# Rohit Kumar
 
-<h3 style="font-weight:500; color:#6e7681;">
-Data Scientist • Machine Learning Engineer • Analytics Strategist
-</h3>
+**Data Scientist | Machine Learning Engineer | Product Analytics**
 
-<br/>
+Building scalable, interpretable machine learning systems with real-world business impact.
 
 <p>
-  <img src="https://img.shields.io/badge/Domain-Machine_Learning-6f42c1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Expertise-Predictive_Analytics-2da44e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Availability-Open_to_Opportunities-f0883e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Machine_Learning-6f42c1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Strength-End--to--End_Systems-2da44e?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open_To-Product_&_ML_Roles-f0883e?style=flat-square" />
 </p>
 
-<br/>
-
 <p>
-  <a href="https://www.linkedin.com/in/rohit-kumar-70a949267">LinkedIn</a> •
-  <a href="mailto:rvempire007@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/rohit-kumar-70a949267">LinkedIn</a> ·
+  <a href="mailto:rvempire007@gmail.com">Email</a> ·
   <a href="https://kaggle.com/222000rohitkumar">Kaggle</a>
 </p>
 
@@ -26,113 +22,125 @@ Data Scientist • Machine Learning Engineer • Analytics Strategist
 
 ---
 
-## Profile Summary
+## About
 
-I am a **data-driven problem solver** with hands-on experience in **machine learning, statistical modeling, and business analytics**.  
-My focus is on transforming raw, noisy data into **actionable insights, predictive systems, and decision-ready intelligence**.
+I am a **machine learning practitioner** with strong foundations in **statistics, data modeling, and applied ML engineering**.  
+My work focuses on converting ambiguous business problems into **production-ready predictive systems**.
 
-I approach projects with an **end-to-end mindset**—from data understanding and feature engineering to model optimization and deployment readiness.
-
----
-
-## Technical Expertise
-
-<div align="center">
-
-| **Programming & ML** | **Analytics & Visualization** | **Data & Tools** |
-|---|---|---|
-| Python, Scikit-Learn | Pandas, NumPy | SQL, Excel |
-| TensorFlow, Keras | Matplotlib, Seaborn | Git, GitHub |
-| Machine Learning | Statistical Modeling | Data Preprocessing |
-
-</div>
+I emphasize:
+- Data understanding before modeling  
+- Interpretability alongside performance  
+- Reproducibility and deployment readiness  
 
 ---
 
-## Selected Projects
+## Technical Stack
+
+**Languages & ML**
+- Python, Scikit-Learn, TensorFlow / Keras  
+- Supervised & Unsupervised Learning  
+- Neural Networks, Feature Engineering  
+
+**Data & Analytics**
+- Pandas, NumPy  
+- SQL, Excel  
+- Statistical Analysis, EDA  
+
+**Engineering Practices**
+- Git / GitHub  
+- Model versioning  
+- Serialized preprocessing pipelines  
+
+---
+
+## Featured Projects
 
 ### Customer Churn Prediction System  
-**Machine Learning | ANN | End-to-End Pipeline**
+**End-to-End Machine Learning | ANN | Predictive Analytics**
 
-- Built a predictive system to identify customers likely to churn using structured business data  
-- Implemented preprocessing pipelines with encoding and scaling for production consistency  
-- Trained and optimized an **Artificial Neural Network**, including hyperparameter tuning  
-- Saved and reused trained models and transformers for real-world inference  
-- Designed the project with deployment readiness in mind (API-friendly architecture)
+🔗 https://github.com/222000rohitkumar/customer_churn_predictor
 
-🔗 Repository: https://github.com/222000rohitkumar/customer_churn_predictor
+**Problem**  
+Customer churn directly impacts revenue and lifetime value. The goal was to proactively identify high-risk customers using historical behavioral and demographic data.
+
+**Approach**
+- Performed structured EDA to identify churn drivers  
+- Built a reproducible preprocessing pipeline (encoding + scaling)  
+- Trained and tuned an **Artificial Neural Network**  
+- Persisted model and transformers for consistent inference  
+- Designed API-ready architecture for deployment
+
+**Outcome**
+- Delivered a scalable churn prediction system  
+- Enabled early churn detection for targeted retention strategies  
+- Demonstrated full ML lifecycle ownership
 
 ---
 
-### Advanced Predictive Analytics  
+### Advanced Predictive Analytics (UpGrad)  
 **Feature Engineering | Model Optimization**
 
-- Developed a full ML workflow as part of the UpGrad curriculum  
-- Focused on feature selection, model evaluation, and hyperparameter tuning  
-- Solved real-world business classification problems using structured datasets
+🔗 https://github.com/222000rohitkumar/Upgrad_Project
 
-🔗 Repository: https://github.com/222000rohitkumar/Upgrad_Project
+- Built complete ML pipelines for business classification problems  
+- Applied feature selection and hyperparameter tuning  
+- Focused on evaluation metrics aligned with business goals  
 
 ---
 
-### Statistical Modeling & Experiments  
-**Regression | Clustering | Exploratory Analysis**
+### Statistical Modeling Experiments  
+**Regression | Clustering | Pattern Discovery**
 
-- Conducted statistical experiments to uncover behavioral patterns in consumer datasets  
-- Applied regression and clustering techniques to support data-driven decision making  
-- Emphasized interpretability and insight generation alongside performance
+🔗 https://github.com/222000rohitkumar
 
-🔗 Repository: https://github.com/222000rohitkumar
+- Applied statistical techniques to consumer behavior datasets  
+- Focused on interpretability and insight extraction  
+- Explored segmentation and trend identification  
 
 ---
 
 ## GitHub Analytics
 
+> If images do not load immediately, refresh once — GitHub rate-limits stats APIs.
+
 <div align="center">
 
-<img width="46%" src="https://github-readme-stats.vercel.app/api?username=222000rohitkumar&show_icons=true&hide_border=true&theme=github_dark&border_radius=12" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=222000rohitkumar&show_icons=true&hide_border=true&theme=dark&rank_icon=github"
+  width="48%" 
+/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=222000rohitkumar&layout=compact&hide_border=true&theme=github_dark&border_radius=12" />
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=222000rohitkumar&layout=compact&hide_border=true&theme=dark"
+  width="40%" 
+/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=222000rohitkumar&theme=github-dark&hide_border=true" />
-</div>
 
----
-
-## Contact & Collaboration
-
-I am actively seeking **internship and entry-level opportunities** in:
-
-- Data Science  
-- Machine Learning  
-- Business Analytics  
-
-I am open to **collaborations, internships, and applied research projects**.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/rohit-kumar-70a949267">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:rvempire007@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://kaggle.com/222000rohitkumar">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
-</a>
+<img 
+  src="https://streak-stats.demolab.com?user=222000rohitkumar&theme=dark&hide_border=true" 
+/>
 
 </div>
 
 ---
 
-<div align="center">
-<sub>Focused on building reliable, interpretable, and business-aligned machine learning systems.</sub>
-</div>
+## Interests & Opportunities
 
+I am actively preparing for **product-focused data science and ML engineering roles**, particularly where:
+
+- Models influence user or business decisions  
+- Interpretability and metrics matter  
+- Systems move beyond notebooks  
+
+I am open to **internships, applied ML roles, and collaborative projects**.
+
+---
+
+<div align="center">
+<sub>Focused on correctness, scalability, and measurable impact.</sub>
+</div>
