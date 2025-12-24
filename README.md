@@ -45,15 +45,17 @@
 ---
 
 ### 📊 GitHub Activity
+### 📊 GitHub Activity
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=222000rohitkumar&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=10" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=222000rohitkumar&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=10" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=222000rohitkumar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Rohit's Stats" />
+  
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=222000rohitkumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=222000rohitkumar&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=222000rohitkumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
