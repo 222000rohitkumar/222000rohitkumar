@@ -1,20 +1,24 @@
 <div align="center">
 
-# Rohit Kumar
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Rohit%20Kumar&fontSize=42&fontColor=ffffff" />
 
-**Data Scientist | Machine Learning Engineer | Product Analytics**
+<h3 align="center">
+Data Scientist • Machine Learning Engineer • Product Analytics
+</h3>
 
-Building scalable, interpretable machine learning systems with real-world business impact.
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-Machine_Learning-6f42c1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Strength-End--to--End_Systems-2da44e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open_To-Product_&_ML_Roles-f0883e?style=flat-square" />
+<p align="center">
+Building scalable, interpretable machine learning systems with real-world impact
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/rohit-kumar-70a949267">LinkedIn</a> ·
-  <a href="mailto:rvempire007@gmail.com">Email</a> ·
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-6f42c1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Product%20Analytics-0a66c2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to%20Roles-2da44e?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohit-kumar-70a949267">LinkedIn</a> •
+  <a href="mailto:rvempire007@gmail.com">Email</a> •
   <a href="https://kaggle.com/222000rohitkumar">Kaggle</a>
 </p>
 
@@ -22,96 +26,89 @@ Building scalable, interpretable machine learning systems with real-world busine
 
 ---
 
-## About
-
-I am a **machine learning practitioner** with strong foundations in **statistics, data modeling, and applied ML engineering**.  
-My work focuses on converting ambiguous business problems into **production-ready predictive systems**.
-
-I emphasize:
-- Data understanding before modeling  
-- Interpretability alongside performance  
-- Reproducibility and deployment readiness  
+<img src="https://user-images.githubusercontent.com/74038190/212284068-31b5d9c5-5c3a-47d2-8e32-5d7bcb7d25aa.gif" width="100%" />
 
 ---
 
-## Technical Stack
+## 👨‍💻 About Me
 
-**Languages & ML**
-- Python, Scikit-Learn, TensorFlow / Keras  
-- Supervised & Unsupervised Learning  
-- Neural Networks, Feature Engineering  
+I am a **machine learning practitioner** with strong foundations in  
+**statistics, data modeling, and applied ML engineering**.
 
-**Data & Analytics**
-- Pandas, NumPy  
-- SQL, Excel  
-- Statistical Analysis, EDA  
-
-**Engineering Practices**
-- Git / GitHub  
-- Model versioning  
-- Serialized preprocessing pipelines  
+I focus on:
+- Turning ambiguous business problems into ML solutions  
+- Building **end-to-end pipelines**, not just notebooks  
+- Prioritizing interpretability, metrics, and scalability  
 
 ---
 
-## Featured Projects
+## 🧰 Tech Stack
 
-### Customer Churn Prediction System  
-**End-to-End Machine Learning | ANN | Predictive Analytics**
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,git,github,sql" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔮 Customer Churn Prediction System  
+**End-to-End ML | ANN | Predictive Modeling**
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" />
 
 🔗 https://github.com/222000rohitkumar/customer_churn_predictor
 
 **Problem**  
-Customer churn directly impacts revenue and lifetime value. The goal was to proactively identify high-risk customers using historical behavioral and demographic data.
+Customer churn directly impacts revenue and retention.
 
-**Approach**
-- Performed structured EDA to identify churn drivers  
-- Built a reproducible preprocessing pipeline (encoding + scaling)  
+**Solution**
+- Cleaned and analyzed structured customer data  
+- Built reproducible preprocessing pipelines  
 - Trained and tuned an **Artificial Neural Network**  
-- Persisted model and transformers for consistent inference  
-- Designed API-ready architecture for deployment
+- Saved encoders, scalers, and models for production use  
+- Designed inference-ready architecture
 
-**Outcome**
-- Delivered a scalable churn prediction system  
-- Enabled early churn detection for targeted retention strategies  
-- Demonstrated full ML lifecycle ownership
+**Impact**
+- Early identification of high-risk customers  
+- Supports targeted retention strategies  
 
 ---
 
-### Advanced Predictive Analytics (UpGrad)  
-**Feature Engineering | Model Optimization**
+### 📊 Advanced Predictive Analytics (UpGrad)
 
 🔗 https://github.com/222000rohitkumar/Upgrad_Project
 
-- Built complete ML pipelines for business classification problems  
-- Applied feature selection and hyperparameter tuning  
-- Focused on evaluation metrics aligned with business goals  
+- Feature engineering and model optimization  
+- Business-aligned evaluation metrics  
+- End-to-end ML workflows  
 
 ---
 
-### Statistical Modeling Experiments  
-**Regression | Clustering | Pattern Discovery**
+### 📈 Statistical Modeling Experiments
 
 🔗 https://github.com/222000rohitkumar
 
-- Applied statistical techniques to consumer behavior datasets  
-- Focused on interpretability and insight extraction  
-- Explored segmentation and trend identification  
+- Regression and clustering techniques  
+- Consumer behavior analysis  
+- Insight-driven analytics  
 
 ---
 
-## GitHub Analytics
-
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=222000rohitkumar&show_icons=true&hide_border=true&theme=dark&rank_icon=github"
-  width="48%" 
+  src="https://github-readme-stats.vercel.app/api?username=222000rohitkumar&show_icons=true&theme=tokyonight&hide_border=true"
+  width="48%"
 />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=222000rohitkumar&layout=compact&hide_border=true&theme=dark"
-  width="40%" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=222000rohitkumar&layout=compact&theme=tokyonight&hide_border=true"
+  width="40%"
 />
 
 </div>
@@ -121,25 +118,31 @@ Customer churn directly impacts revenue and lifetime value. The goal was to proa
 <div align="center">
 
 <img 
-  src="https://streak-stats.demolab.com?user=222000rohitkumar&theme=dark&hide_border=true" 
+  src="https://streak-stats.demolab.com?user=222000rohitkumar&theme=tokyonight&hide_border=true"
 />
 
 </div>
 
 ---
 
-## Interests & Opportunities
+## 🤝 Let’s Connect
 
-I am actively preparing for **product-focused data science and ML engineering roles**, particularly where:
+<div align="center">
 
-- Models influence user or business decisions  
-- Interpretability and metrics matter  
-- Systems move beyond notebooks  
+<a href="https://www.linkedin.com/in/rohit-kumar-70a949267">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-I am open to **internships, applied ML roles, and collaborative projects**.
+<a href="mailto:rvempire007@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://kaggle.com/222000rohitkumar">
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-<div align="center">
-<sub>Focused on correctness, scalability, and measurable impact.</sub>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
