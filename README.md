@@ -1,24 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rohit%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Product%20Analytics&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=150&section=header&text=Rohit%20Kumar&fontSize=44&fontColor=e6edf3&fontAlignY=42&desc=Data%20Scientist%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20Product%20Analytics&descAlignY=65&descSize=16&descColor=8b949e" width="100%"/>
 
 <p align="center">
   <em>Building scalable, interpretable machine learning systems with real-world impact</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-9d4edd?style=for-the-badge&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/Product%20Analytics-3a86ff?style=for-the-badge&labelColor=1a1a2e"/>
-  <img src="https://img.shields.io/badge/Open%20to%20Roles-2da44e?style=for-the-badge&labelColor=1a1a2e"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Machine+Learning&color=161b22&style=for-the-badge&labelColor=161b22"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Product+Analytics&color=161b22&style=for-the-badge&labelColor=161b22"/>
+  <img src="https://img.shields.io/static/v1?label=&message=Open+to+Roles&color=238636&style=for-the-badge&labelColor=161b22"/>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit-kumar-70a949267"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:rvempire007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://kaggle.com/222000rohitkumar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/rohit-kumar-70a949267"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="mailto:rvempire007@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=D14836"/></a>
+  <a href="https://kaggle.com/222000rohitkumar"><img src="https://img.shields.io/badge/Kaggle-161b22?style=flat-square&logo=kaggle&logoColor=20BEFF"/></a>
 </p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
 </div>
 
@@ -37,14 +35,12 @@ I'm a **machine learning practitioner** with strong foundations in **statistics,
 ## 🧰 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,git,github,sql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,pandas,numpy,git,github,sql&theme=dark&perline=8" />
 </div>
 
 <br/>
 
 ## 🚀 Featured Projects
-
-<br/>
 
 <table width="100%">
 <tr>
@@ -53,7 +49,7 @@ I'm a **machine learning practitioner** with strong foundations in **statistics,
 ### 📈 NIFTY 50 Institutional Quant Desk
 **Regime-Conditioned Meta-Learner · Multi-Modal Sentiment Integration**
 
-<img src="https://img.shields.io/badge/XGBoost-1798c1?style=flat-square"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/FinBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-161b22?style=flat-square"/> <img src="https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/FinBERT-161b22?style=flat-square&logo=huggingface&logoColor=FFD21E"/> <img src="https://img.shields.io/badge/Streamlit-161b22?style=flat-square&logo=streamlit&logoColor=FF4B4B"/>
 
 🔗 **[github.com/222000rohitkumar/nifty_ml_hybrid](https://github.com/222000rohitkumar/nifty_ml_hybrid)**
 
@@ -116,12 +112,8 @@ An institutional-grade forecasting engine for the Indian NIFTY 50 Index, combini
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=222000rohitkumar&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=9d4edd&icon_color=3a86ff" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=222000rohitkumar&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=9d4edd" width="38%"/>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=222000rohitkumar&theme=dark&hide_border=true&background=0d1117&ring=9d4edd&fire=3a86ff&currStreakLabel=9d4edd" />
+<img src="https://github-readme-stats.vercel.app/api?username=222000rohitkumar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=222000rohitkumar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" width="38%"/>
 </div>
 
 <br/>
@@ -134,4 +126,4 @@ An institutional-grade forecasting engine for the Indian NIFTY 50 Index, combini
 <a href="https://kaggle.com/222000rohitkumar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=footer" width="100%"/>
